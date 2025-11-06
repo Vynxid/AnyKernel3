@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=spes/spesn kernel Upstreamed v4.19.325-KernelSU-Next | @muralivijay9845(Telegram)
+kernel.string=
 do.devicecheck=1
 do.modules=0
 do.systemless=1
